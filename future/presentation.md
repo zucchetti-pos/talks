@@ -1,12 +1,12 @@
 ---
-title: "Ecossistema CompuFácil"
+title: "O Futuro e a CompuFácil"
 width: 710px
 height: 460px
 colors:
 headerEmphasis: \#fe7c00
 ---
 
-# Futuro e a CompuFácil
+# O Futuro e a CompuFácil
 
 ----
 
@@ -22,13 +22,13 @@ Para Saber o futuro precisamos acompanhar o passado e a tendência do presente
 
 # Distópico
 
-![Distópico](/home/jean/projects/talks/future/distopic_future.jpg)
+![Distópico](./distopic_future.jpg)
 
 -----
 
 # Utópico
 
-![Utópico](/home/jean/projects/talks/future/utopic_future.jpg)
+![Utópico](./utopic_future.jpg)
 
 ---
 
@@ -36,15 +36,7 @@ Estamos no período mais próspero da história da humanidade
 
 ----
 
-![Extrema Pobreza](/home/jean/projects/talks/future/extreme-poverty.png)
-
-----
-
-![Educação básica](/home/jean/projects/talks/future/basic_education.png)
-
-----
-
-![Mortalidade Infantil](/home/jean/projects/talks/future/child_mortality.png)
+![Statistics](./journal.png)
 
 ----
 
@@ -73,10 +65,6 @@ Estamos no período mais próspero da história da humanidade
 
 ---
 
-![Nuvem meu filho](/home/jean/projects/talks/future/nuvem_meu_filho.jpeg)
-
----
-
 ## Economias Compartilhadas
 
  - A maior empresa de carros do mundo não tem carros
@@ -87,7 +75,7 @@ Estamos no período mais próspero da história da humanidade
 
 ---
 
-![Uber + Telsa](/home/jean/projects/talks/future/uber-tesla.jpg)
+![Uber + Telsa](./uber-tesla.jpg)
 
 ---
 
@@ -96,11 +84,8 @@ Estamos no período mais próspero da história da humanidade
  - Dinheiro online, descentralizado, global
  - Novos modelos de negócios
  - Novas formas de se pensar sobre gestão financeira
+ - Ferramentas de investimento
  - Sistemas de votação
-
----
-
-# Inteligência
 
 ---
 
@@ -129,6 +114,8 @@ Em 2020 estimas-se 21 bilhões
 - Carros autônomos
 - Detecção de humor
 - Advogados/Juízes artificiais
+- Bots
+- Assistentes pessoais (Alexa)
 - *AI will be the new UI*
 
 ---
@@ -142,11 +129,17 @@ Em 2020 estimas-se 21 bilhões
  - Realidade virtual/aumentada
  - Mapeamento Genético
  - Customização genética (CRISPR)
- - Assistentes pessoais (Alexa)
 
 ---
 
-# Integrações
+ não é o futuro
+ é o presente
+
+![Video](./watson.mp4)
+
+---
+
+![Integrações](./integrations.svg)
 
 ---
 
@@ -156,48 +149,34 @@ Para criar mais valor precisamos juntar elas
 
 ---
 
-## API's
-
-- Integrar outros sistemas
-- Integrações a sistemas de terceiros
-- Aplicativos próprios
-- Aplicativos de terceiros
-- Desenvolver novas funcionalidades
-
----
-
-![Integrações](/home/jean/projects/talks/future/integrations.svg)
-
----
-
 ## Nossos aplicativos
 
 ---
 
-![Checkout Maquininha](/home/jean/projects/talks/future/maquininha_checkout.png)
+![Checkout Maquininha](./maquininha_checkout.png)
 
 ---
 
-![Relatórios Maquininha](/home/jean/projects/talks/future/maquininha_relatorios.png)
+![Relatórios Maquininha](./maquininha_relatorios.png)
 
 ---
 
-![Controle financeiro](/home/jean/projects/talks/future/android_financeiro.png)
+![Controle financeiro](./android_financeiro.png)
 
 ---
 
-![Controle estoque](/home/jean/projects/talks/future/controle_estoque.png)
+![Controle estoque](./controle_estoque.png)
 
 ---
 
-![NFC-e](/home/jean/projects/talks/future/nfce.png)
+![NFC-e](./nfce.png)
 
 ---
 
 ## Ideias
 
 - Nota fiscal de serviço para alguns municípios
-- Whatsapp para receber novidades sobre vendas e vencimentos
+- Messenger para receber novidades sobre vendas e vencimentos
 - Criação automática de promoções baseada no vencimento de itens
 - Mineração de melhores datas para entrar em contato com os clientes
 - Checkout automático com RFID de produtos especiais
@@ -217,20 +196,6 @@ Para criar mais valor precisamos juntar elas
 
 ---
 
-## Resumindo
-
-O futuro vai ser um lugar muito mais dinâmico e próspero
-
-Quem quiser ter impacto vai ter que se adaptar
-
-A tecnologia está muito mais democrática e nunca foi tão fácil
-revolucionar o mundo com ela
-
-Integrar todas essas tecnologias maravilhosas vai permitir
-criarmos muito mais valor do que pensávamos ser possível
-
----
-
 
 *The difference between a successful person and others is not a
 lack of strength, not a lack of knowledge, but rather a lack in
@@ -243,20 +208,6 @@ will.*
 
 ---
 
-# Referências
-
-1. [Saas como um ecossistema](https://www.slideshare.net/saasu/saas-as-an-ecosystem-presentation)
-2. [The case of Adobe moving to the cloud](https://www.computerworld.com/article/3069711/software-as-a-service/transitioning-to-the-cloud-adobe-hits-it-out-of-the-park.html)
-3. [10 anos de áudio em pt](http://revistagalileu.globo.com/Revista/Common/0,,EMI341118-17770,00-A+PESQUISA+POR+VOZ+SERA+ESSENCIAL+NA+INTERNET+DAS+COISAS.htmlk)
-4. [Things Big Data Can Do, and 3 Things It Can’t Do](http://data-informed.com/4-things-big-data-can-do-and-3-things-it-cant-do/)
-5. [Lawyers and IA](https://www.cnbc.com/2017/02/17/lawyers-could-be-replaced-by-artificial-intelligence.html)
-6. [The future of the Internet of Things](https://us.norton.com/internetsecurity-iot-5-predictions-for-the-future-of-iot.html)
-7. [Technology and the future](https://www.youtube.com/watch?v=k0mHMVETt_o)
-
-8. [Our world in data](https://ourworldindata.org/)
-
----
 
 # Obrigado
 
-Contato: contato@jeancarlomachado.com.br

@@ -46,3 +46,15 @@ Pessoas que conseguem programar no excel sempre ficaram limitadas
 a usar scripts genéricos pois tinham que se preocupar com a
 instalação deles. Com serverless qualquer um vai conseguir fazer
 um script genérico e ter acesso a muito mais poder.
+
+
+## Todo
+
+ - Remover as estatísticas
+ - Colocar conotação 'a era das disrupções'
+
+ vídeo do ia
+
+---
+
+
