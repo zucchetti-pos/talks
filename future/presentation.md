@@ -1,12 +1,7 @@
----
-title: "O Futuro e a CompuFácil"
-width: 710px
-height: 460px
-colors:
-headerEmphasis: \#fe7c00
----
+build-lists: true
+autoscale: true
 
-# O Futuro e a CompuFácil
+# O Futuro e a **CompuFácil**
 
 ----
 
@@ -14,58 +9,46 @@ headerEmphasis: \#fe7c00
 
 ----
 
-# Futuro
-
-Para Saber o futuro precisamos acompanhar o passado e a tendência do presente
+# Futuro ?
 
 -----
 
-# Distópico
+![left](./distopic_future.jpg)
 
-![Distópico](./distopic_future.jpg)
-
------
-
-# Utópico
-
-![Utópico](./utopic_future.jpg)
+![right](./utopic_future.jpg)
 
 ---
 
-Estamos no período mais próspero da história da humanidade
+## Estamos no período mais próspero da história da humanidade
 
 ----
 
-![Statistics](./journal.png)
+![fit](./journal.png)
 
 ----
 
-# Sustentabilidade {.bit}
+# Sustentabilidade = eficiência
 
-----
+ - Infraestrutura compartilhada
+ - Não se vende computadores, vende-se computação
+ - Custo por demanda
+ - Facilidade de automatização 
+ - *Serverless*
 
-### Sustentabilidade = eficiência
-
- - infraestrutura compartilhada
- - não se vende computadores, vende-se computação
- - custo por demanda
- - facilidade de automatização *serverless*
-
-*Civilization advances by extending the number of important operations we can perform without thinking. ~  A. N. Whitehead*
 
 ---
 
 
 # Nuvem
 
- - dados centralizados
+ - Dados centralizados
  - Detectar erros antes dos próprios clientes
  - Novas versões instantaneamente
- - Acesso em qualquer lugar, qualquer dispositivo WEB
+ - Acesso em qualquer lugar, qualquer dispositivo conectado
 
 ---
 
-## Economias Compartilhadas
+# Economias Compartilhadas
 
  - A maior empresa de carros do mundo não tem carros
  - A maior empresa de imóveis do mundo não possui imóveis
@@ -75,11 +58,7 @@ Estamos no período mais próspero da história da humanidade
 
 ---
 
-![Uber + Telsa](./uber-tesla.jpg)
-
----
-
-### Blockchain
+# Blockchain
 
  - Dinheiro online, descentralizado, global
  - Novos modelos de negócios
@@ -89,18 +68,18 @@ Estamos no período mais próspero da história da humanidade
 
 ---
 
-## IOT
+# Internet das coisas (IOT)
 
-Em 2015 existiam 4.9 milhões de dispositivos conectados a internet
+- Em 2015 existiam 4.9 milhões de dispositivos conectados a internet
 
-Em 2020 estimas-se 21 bilhões
+- Em 2020 estimas-se 21 bilhões
 
-[Amazon Go](https://www.youtube.com/watch?v=NrmMk1Myrxc)
+- [Amazon Go](https://www.youtube.com/watch?v=NrmMk1Myrxc)
 
 ---
 
 
-## Big Data
+# Big Data
 
 - Dados centralizados permitem a mineração
 - Descobrir o que vai acontecer
@@ -109,18 +88,18 @@ Em 2020 estimas-se 21 bilhões
 
 ---
 
-## Inteligência Artificial
+# Inteligência Artificial
 
 - Carros autônomos
 - Detecção de humor
-- Advogados/Juízes artificiais
+- Profissões artificiais (advogados, juízes, etc)
 - Bots
-- Assistentes pessoais (Alexa)
+- Assistentes pessoais (Alexa, Siri)
 - *AI will be the new UI*
 
 ---
 
-## O que mais?
+# O que mais?
 
  - Impressoras 3D
  - Wearable's
@@ -132,48 +111,60 @@ Em 2020 estimas-se 21 bilhões
 
 ---
 
- não é o futuro
- é o presente
-
-![Video](./watson.mp4)
+# O Futuro e a **CompuFácil**
 
 ---
 
-![Integrações](./integrations.svg)
+# ~~O Futuro e a~~ **CompuFácil**
 
 ---
 
-O mundo já tem muitas ideias genias
-
-Para criar mais valor precisamos juntar elas
+![fit](./watson.mp4)
 
 ---
 
-## Nossos aplicativos
+![fit](./integrations.jpg)
 
 ---
 
-![Checkout Maquininha](./maquininha_checkout.png)
+## O mundo já tem muitas ideias geniais
+
+## Para criar mais valor precisamos juntar elas
 
 ---
 
-![Relatórios Maquininha](./maquininha_relatorios.png)
+![fit](./uber-tesla.jpg)
+
 
 ---
 
-![Controle financeiro](./android_financeiro.png)
+
+
+# Nossos aplicativos
 
 ---
 
-![Controle estoque](./controle_estoque.png)
+![fit](./maquininha_checkout.png)
 
 ---
 
-![NFC-e](./nfce.png)
+![fit](./maquininha_relatorios.png)
 
 ---
 
-## Ideias
+![fit](./android_financeiro.png)
+
+---
+
+![fit](./controle_estoque.png)
+
+---
+
+![fit](./nfce.png)
+
+---
+
+# Ideias
 
 - Nota fiscal de serviço para alguns municípios
 - Messenger para receber novidades sobre vendas e vencimentos
@@ -184,7 +175,7 @@ Para criar mais valor precisamos juntar elas
 
 ---
 
-## Ideias
+# Ideias
 
 - Pagamento direto sem necessidade de cartão com NFC ou Bitcoin
 - Ferramenta para análise do perfil do cliente oferecer promoções
@@ -196,18 +187,13 @@ Para criar mais valor precisamos juntar elas
 
 ---
 
-
-*The difference between a successful person and others is not a
-lack of strength, not a lack of knowledge, but rather a lack in
-will.*
-
-~ Vince Lombardi Jr.
-
-
 # O que você vai fazer?
 
 ---
 
+> The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.
+
+~ Vince Lombardi Jr.
 
 # Obrigado
 
