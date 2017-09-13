@@ -22,13 +22,13 @@ Para Saber o futuro precisamos acompanhar o passado e a tendência do presente
 
 # Distópico
 
-![Distópico](/home/jean/projects/talks-courses/compufacil_ecossystem/distopic_future.jpg)
+![Distópico](/home/jean/projects/talks/future/distopic_future.jpg)
 
 -----
 
 # Utópico
 
-![Utópico](/home/jean/projects/talks-courses/compufacil_ecossystem/utopic_future.jpg)
+![Utópico](/home/jean/projects/talks/future/utopic_future.jpg)
 
 ---
 
@@ -36,15 +36,15 @@ Estamos no período mais próspero da história da humanidade
 
 ----
 
-![Extrema Pobreza](/home/jean/projects/talks-courses/compufacil_ecossystem/extreme-poverty.png)
+![Extrema Pobreza](/home/jean/projects/talks/future/extreme-poverty.png)
 
 ----
 
-![Educação básica](/home/jean/projects/talks-courses/compufacil_ecossystem/basic_education.png)
+![Educação básica](/home/jean/projects/talks/future/basic_education.png)
 
 ----
 
-![Mortalidade Infantil](/home/jean/projects/talks-courses/compufacil_ecossystem/child_mortality.png)
+![Mortalidade Infantil](/home/jean/projects/talks/future/child_mortality.png)
 
 ----
 
@@ -73,7 +73,7 @@ Estamos no período mais próspero da história da humanidade
 
 ---
 
-![Nuvem meu filho](/home/jean/projects/talks-courses/compufacil_ecossystem/nuvem_meu_filho.jpeg)
+![Nuvem meu filho](/home/jean/projects/talks/future/nuvem_meu_filho.jpeg)
 
 ---
 
@@ -87,7 +87,7 @@ Estamos no período mais próspero da história da humanidade
 
 ---
 
-![Uber + Telsa](/home/jean/projects/talks-courses/compufacil_ecossystem/uber-tesla.jpg)
+![Uber + Telsa](/home/jean/projects/talks/future/uber-tesla.jpg)
 
 ---
 
@@ -166,7 +166,7 @@ Para criar mais valor precisamos juntar elas
 
 ---
 
-![Integrações](/home/jean/projects/talks-courses/compufacil_ecossystem/integrations.svg)
+![Integrações](/home/jean/projects/talks/future/integrations.svg)
 
 ---
 
@@ -174,23 +174,23 @@ Para criar mais valor precisamos juntar elas
 
 ---
 
-![Checkout Maquininha](/home/jean/projects/talks-courses/compufacil_ecossystem/maquininha_checkout.png)
+![Checkout Maquininha](/home/jean/projects/talks/future/maquininha_checkout.png)
 
 ---
 
-![Relatórios Maquininha](/home/jean/projects/talks-courses/compufacil_ecossystem/maquininha_relatorios.png)
+![Relatórios Maquininha](/home/jean/projects/talks/future/maquininha_relatorios.png)
 
 ---
 
-![Controle financeiro](/home/jean/projects/talks-courses/compufacil_ecossystem/android_financeiro.png)
+![Controle financeiro](/home/jean/projects/talks/future/android_financeiro.png)
 
 ---
 
-![Controle estoque](/home/jean/projects/talks-courses/compufacil_ecossystem/controle_estoque.png)
+![Controle estoque](/home/jean/projects/talks/future/controle_estoque.png)
 
 ---
 
-![NFC-e](/home/jean/projects/talks-courses/compufacil_ecossystem/nfce.png)
+![NFC-e](/home/jean/projects/talks/future/nfce.png)
 
 ---
 
